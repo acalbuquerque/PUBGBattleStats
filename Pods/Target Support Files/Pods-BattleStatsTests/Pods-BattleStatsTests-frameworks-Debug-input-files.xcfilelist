@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-BattleStatsTests/Pods-BattleStatsTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Embassy/Embassy.framework
+${BUILT_PRODUCTS_DIR}/EnvoyAmbassador/EnvoyAmbassador.framework
+${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework

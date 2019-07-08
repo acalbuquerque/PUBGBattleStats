@@ -1,0 +1,27 @@
+/*
+ *  Generics
+ */
+"alert.title.noConnection" = "No Internet Available! =(";
+"alert.message.noConnection" = "Please, make sure you have a internet connection.";
+"alert.message.generalError" = "Oops! We got an error. (%@)";
+"alert.message.error.notFound" = "Oops! Seems this user does not exists.\n\nTip: usernames are case-sensitive.";
+"alert.ok" = "Ok";
+"alert.cancel" = "Cancel";
+"alert.ok.accessibilityLabel" = "AlertOK";
+
+/*
+ *  Community
+ */
+"tabbar.communityNews.title" = "News";
+"news.navbar.title" = "BattleStats News";
+
+/*
+ *  Search Form
+ */
+"searchForm.navBar.title" = "Search Player Stats";
+"searchForm.form.section.title" = "Player Info";
+"searchForm.playerName.label" = "Player Name";
+"searchForm.playerName.placeholder" = "shroud";
+"searchForm.season.label" = "Season";
+"searchForm.AvailableSeasons.label" = "Available Seasons";
+"searchForm.button.title" = "Show Stats";

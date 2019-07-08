@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Introducing the Survivor's Guide",
+        "type": "news",
+        "subtitle": "The PUBG Survivor’s Guide.",
+        "newsURL": "https://www.pubg.com/2019/07/03/introducing-the-survivors-guide/",
+        "imageURL": "https://www.pubg.com/wp-content/uploads/2019/07/Survivors-Guide.jpg"
+    },
+    {
+        "id": 2,
+        "title": "NEW STREAMER SKINS AVAILABLE IN THE STORE NOW!",
+        "type": "news",
+        "newsURL": "https://www.pubg.com/2019/06/27/new-streamer-skins-available-in-the-store-now/",
+        "subtitle": "Hey everyone, Hit the Battlegrounds in style with new streamer skins.",
+        "imageURL": "https://content.invisioncic.com/r273030/monthly_2019_06/1.png.9203a6dc33ca4e20079a373b9b2949e3.png"
+    },
+    {
+        "id": 3,
+        "title": "Update #30",
+        "type": "news",
+        "subtitle": "Update #30 is now available on live servers!",
+        "newsURL": "https://www.pubg.com/2019/06/26/update-30-now-live/",
+        "imageURL": "https://www.pubg.com/wp-content/uploads/2019/06/dgel-520x290.png"
+    },
+    {
+        "id": 4,
+        "title": "WEAPONS MASTERY",
+        "type": "news",
+        "subtitle": "PUBG’s first class of progression called Weapon Mastery was unveiled.",
+        "newsURL": "https://www.pubg.com/2019/06/18/weaponsmastery/",
+        "imageURL": "https://content.invisioncic.com/r273030/monthly_2019_06/1.jpg.5b17a325258163003abee68623106c83.jpg"
+    }
+]

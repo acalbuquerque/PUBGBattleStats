@@ -1,0 +1,6 @@
+framework module Pods_BattleStatsTests {
+  umbrella header "Pods-BattleStatsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
