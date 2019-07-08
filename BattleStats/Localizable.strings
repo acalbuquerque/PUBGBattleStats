@@ -4,6 +4,7 @@
 "alert.title.noConnection" = "No Internet Available! =(";
 "alert.message.noConnection" = "Please, make sure you have a internet connection.";
 "alert.message.generalError" = "Oops! We got an error. (%@)";
+"alert.message.error.unauthorized" = "Oops! Seems you forgot to add a valid PUBG apiKey, dude.";
 "alert.message.error.notFound" = "Oops! Seems this user does not exists.\n\nTip: usernames are case-sensitive.";
 "alert.ok" = "Ok";
 "alert.cancel" = "Cancel";

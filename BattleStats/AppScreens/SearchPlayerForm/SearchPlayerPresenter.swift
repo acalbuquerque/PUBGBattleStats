@@ -49,7 +49,15 @@ extension SearchPlayerPresenter: SearchPlayerPresenterInterface{
                 self.seasonViewModels = viewModels
                 self.view.setupForm(with: self.seasonViewModels)
             case .failure(let error):
-                print(error)
+                if let httpStatusCode = error as? HTTPStatusCode,
+                    httpStatusCode == .unauthorized {
+                    self.presentAlert(onViewController: self.view as! UIViewController,
+                                      title: String(format:"alert.message.error.unauthorized".localized, error.localizedDescription))
+                }
+                else{
+                    self.presentAlert(onViewController: self.view as! UIViewController,
+                                      title: String(format:"alert.message.generalError".localized, error.localizedDescription))
+                }
             }
         }
     }
