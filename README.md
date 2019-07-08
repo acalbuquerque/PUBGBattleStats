@@ -45,13 +45,9 @@ I also created a Environment file to allow the project to have at least 3 EnvTyp
 Also I created some extensions and Enums to make everything more reachable (inside Util folder).
 
 # App Visual Flow 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| RootBuilder | -> | RootNav | -> | RootRouter | -> | HomeTabbar | ----- > | CommunityNewsBuilder | (MainView)  ----- > | Safari App |
-                                                                                            |
-                                                                                            |
-                                                                                            v
-                                                                            | SearchPlayerBuilder | ---- > | GameModesStatsBuilder |
-----------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------
+![alt text](https://i.imgur.com/MEvAhei.png)                                                                           
+-------------------------------------------------------------------
 
 # Third Party Libraries
 ### For the development:
