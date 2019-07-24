@@ -7,7 +7,7 @@ protocol SearchPlayerRouterInterface {
     func goToPlayerStats(with gameModeStats: GameModeStats, playerName: String, fromViewInterface: SearchPlayerViewInterface)
 }
 
-final class SearchPlayerRouter: NSObject, SearchPlayerRouterInterface {
+final class SearchPlayerRouter: SearchPlayerRouterInterface {
     
     unowned let tabBarController: UITabBarController
     private let hud: HUD

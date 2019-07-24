@@ -6,7 +6,7 @@ protocol GameModesStatsRouterInterface {
     func presentReachabilityAlert(completion: (() -> Void)?)
 }
 
-final class GameModesStatsRouter: NSObject, GameModesStatsRouterInterface {
+final class GameModesStatsRouter: GameModesStatsRouterInterface {
     
     unowned let tabBarController: UITabBarController
     private let hud: HUD

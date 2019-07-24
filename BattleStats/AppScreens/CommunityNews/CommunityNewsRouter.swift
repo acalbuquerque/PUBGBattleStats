@@ -7,7 +7,7 @@ protocol CommunityNewsRouterInterface {
     func goToNews(fromViewInterface: CommunityNewsViewInterface, news: News)
 }
 
-final class CommunityNewsRouter: NSObject, CommunityNewsRouterInterface {
+final class CommunityNewsRouter: CommunityNewsRouterInterface {
     
     unowned let tabBarController: UITabBarController
     private let hud: HUD
